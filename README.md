@@ -1,4 +1,4 @@
-# Hi, I'm Adi 👋
+# Hi, I'm Adi
 
 ## About Me
 
