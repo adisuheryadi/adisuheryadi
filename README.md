@@ -1,8 +1,8 @@
-# Hi, I'm Adi
+# Hi, I'm Adi Suheryadi
 
 ## About Me
 
-Computer Vision Researcher and AI Engineer
+Lecture, Computer Vision Researcher and AI Engineer
 
 My interests include:
 
